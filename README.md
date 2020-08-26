@@ -1,4 +1,6 @@
-# Titulo ou Arte do Projeto
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+# Desafio GoRestaurant Mobile
 
 ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-React%20Native-blueviolet)
