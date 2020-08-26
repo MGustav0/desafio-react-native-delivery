@@ -26,6 +26,8 @@
 
 🔹 [Layout da Aplicação](#💻-layout-da-aplicação)
 
+🔹 [Tarefas em aberto](#💻-tarefas-em-aberto)
+
 🔹 [Resolvendo Problemas](#❗️-resolvendo-problemas)
 
 ## 🚀 Sobre o desafio
@@ -60,23 +62,29 @@ O template original utilizado é o que a Rocketseat disponibilizou na seguinte u
 
 ⚠️ [Yarn](https://yarnpkg.com/getting-started/install)
 
+⚠️ [Google ADB](https://developer.android.com/studio/command-line/adb)
+
 ## 💾 Iniciar/Configurar banco de dados
 
 Está configurado no package.json uma dependência chamada json-server, e um arquivo chamado server.json que contém os dados para as rotas.
 
 ## ▶️ Como rodar a aplicação
 
+### Passos para mobile
+
+Para configurar seu ambiente corretamente siga o [tutorial que a Rocketseat fez](https://react-native.rocketseat.dev/).
+
+### Inicializar
+
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
 Executar `yarn json-server server.json -p 3333` para rodar a Fake API
 
-Execute `yarn start` para inicializar a aplicação.
+Execute `yarn start` e depois `yarn android` para inicializar a aplicação no Android ou `yarn ios` para inicializar no iOS.
 
-Pronto! Agora basta acessar a aplicação à partir do link: http://localhost:3000/
+Pronto! Agora basta acessar a aplicação à partir do seu emulador ou aparelho.
 
-### Passos para mobile
-
-A fazer.
+Caso a aplicação não apareça, execute `adb reverse tcp:3333 tcp:3333`.
 
 ## 🏗 Como rodar os testes
 
@@ -93,6 +101,14 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs.
 ### Título da imagem
 
 <img src="" max-width="700" max-heigth="600" />
+
+## 📝 Tarefas em aberto
+
+🖊 Fazer página de finalizar pedido
+
+🖊 Fazer página de pedido finalizado
+
+🖊 Implementar auto carregamento do ícone de favorito ao listar o prato
 
 ## ❗️ Resolvendo Problemas
 
