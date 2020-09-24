@@ -6,11 +6,11 @@
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-React%20Native-blueviolet)
 ![Badge](https://img.shields.io/badge/node-%3E%3D%2012.18.2-brightgreen)
 
-> Status do Projeto: (🚧 em desenvolvimento)
+> Status do Projeto: (✔️ Concluído)
 
 ## Tópicos
 
-🔹 [Descrição do projeto](#🚀-sobre-o-desafio)
+🔹 [Sobre o desafio](#🚀-sobre-o-desafio)
 
 🔹 [Template da aplicação](#📓-template-da-aplicação)
 
@@ -46,15 +46,15 @@ O template original utilizado é o que a Rocketseat disponibilizou na seguinte u
 
 ## ℹ️ Funcionalidades
 
-❌ Listar comidas da API
+✔️ Listar comidas da API
 
-❌ Listar um prato baseado no `id`
+✔️ Listar um prato baseado no `id`
 
-❌ Listar as categorias cadastradas
+✔️ Listar as categorias cadastradas
 
-❌ Listar os pedidos efetuados
+✔️ Listar os pedidos efetuados
 
-❌ Listar os pratos favoritos
+✔️ Listar os pratos favoritos
 
 ## ✨ Pré-requisitos
 
@@ -66,13 +66,13 @@ O template original utilizado é o que a Rocketseat disponibilizou na seguinte u
 
 ## 💾 Iniciar/Configurar banco de dados
 
-Está configurado no package.json uma dependência chamada json-server, e um arquivo chamado server.json que contém os dados para as rotas.
+Está configurado no package.json uma dependência chamada json-server, e um arquivo chamado server.json que contém os dados para as rotas, é uma Fake API. Não é necessária nenhuma alteração.
 
 ## ▶️ Como rodar a aplicação
 
 ### Passos para mobile
 
-Para configurar seu ambiente corretamente siga o [tutorial que a Rocketseat fez](https://react-native.rocketseat.dev/).
+Para configurar seu ambiente corretamente siga o [tutorial que a Rocketseat fez](https://react-native.rocketseat.dev/)!
 
 ### Inicializar
 
@@ -94,25 +94,19 @@ yarn test
 
 ## 💻 Layout da Aplicação
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs.
 
 ### Título da imagem
 
-<img src="" max-width="700" max-heigth="600" />
+<img src="" width="640" heigth="360" />
 
 ## 📝 Tarefas em aberto
 
-🖊 Fazer página de finalizar pedido
-
-🖊 Fazer página de pedido finalizado
-
-🖊 Implementar auto carregamento do ícone de favorito ao listar o prato
+🖊 Nenhuma!
 
 ## ❗️ Resolvendo Problemas
 
-Caso encontre algum problema, bug ou erro me conte [aqui]()!
+Caso encontre algum problema, bug ou erro me conte [aqui](https://github.com/MGustav0/desafio-react-native-delivery/pulls)!
 
 ## 🐙 Desenvolvedores
 
