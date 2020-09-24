@@ -94,11 +94,21 @@ yarn test
 
 ## 💻 Layout da Aplicação
 
+### Home e Dashboard
 
+<img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/01_-_home.jpg" width="640" heigth="360" /> <img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/02_-_dashboard.jpg" width="640" heigth="360" />
 
-### Título da imagem
+### Selecionar Categoria e Prato
 
-<img src="" width="640" heigth="360" />
+<img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/03_-_select_categorie.jpg" width="640" heigth="360" /> <img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/04_-_select_plate.jpg" width="640" heigth="360" />
+
+### Pratos Selecionados
+
+<img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/05_-_my_foods.jpg" width="640" heigth="360" />
+
+### Selecionar e Mostrar Favoritos
+
+<img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/06_-_favoriting.jpgv" width="640" heigth="360" /> <img src="https://github.com/MGustav0/desafio-react-native-delivery/blob/master/extras/screenshots/07_-_favorites.jpg" width="640" heigth="360" />
 
 ## 📝 Tarefas em aberto
 
